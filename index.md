@@ -7,3 +7,9 @@
 - ! 是否显示图像
 - [] alt 图片的描述
 - () 图片的url
+
+# 加入代码块：with ```
+``` bash
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
