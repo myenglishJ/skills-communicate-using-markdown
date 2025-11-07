@@ -13,3 +13,7 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+# 任务列表 - [ ]
+- [x] task 1
+- [ ] task 2
+- [ ] task 3
